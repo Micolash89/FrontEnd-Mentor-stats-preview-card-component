@@ -4,7 +4,7 @@
 
 ¡Hola a todos! 👋
 
-He completado el desafío de codificación frontend "Stats preview card component" de Frontend Mentor. Este proyecto me ha brindado la oportunidad de mejorar mis habilidades en HTML y CSS, además de permitirme construir un componente de tarjeta de producto interactivo.
+He completado el desafío de codificación frontend "Stats preview card component" de Frontend Mentor. Este proyecto me ha brindado la oportunidad de mejorar mis habilidades en HTML y CSS.
 
 ## Dónde Encontrar el Proyecto
 
